@@ -10,4 +10,4 @@ The following features are included in this implementation:
    
 4. Data Persistence: A JSON file called transactions contains the transactions.JSON for long-term tracking.
 
-You can use the same procedures as in the previous response to run this Python script locally on your PC. When asked, be sure to enter the correct income and expense amounts, categories, and dates.
+After executing the code need to fill correct inputs.
